@@ -170,3 +170,7 @@ header h1{
     .steps span {
         font-size: 38px;
     }
+
+    .trainers {
+        text-align: center;
+    }
