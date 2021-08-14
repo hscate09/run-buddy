@@ -139,6 +139,18 @@ header h1{
         font-size: 16px;
     }
 
+    /*Hero form end*/
+
+    /*Hero Secondary Start - will override properties in .hero above*/
+    .hero-secondary {
+        margin: 20px;
+        background-color:black;
+        font-size: 20px;
+        color: red;
+    }
+    /*Hero Secondary End*/
+
+
     .steps {
         text-align: center;
         background:#fce138;
@@ -275,3 +287,18 @@ header h1{
     }
 
     /*Reach out styles end*/
+
+    .page-title {
+        color:#fce138;
+        display:inline-block;
+        border-bottom: 4px solid #fce138;
+        border: 0 80px 15px 80px;
+        font-weight: normal;
+        font-size: 42px;
+        font-style:italic;
+
+    }
+
+    .page-title h2 {
+        
+    }
