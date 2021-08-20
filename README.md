@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# run-buddy Inc. 
-=======
 # Run Buddy, Inc
 >>>>>>> 664e03456eecc6d11d1e73036375198f6fbac26f
 
